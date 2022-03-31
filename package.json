@@ -1,0 +1,15 @@
+{
+  "name": "configurable-currency-converter-cli",
+  "version": "0.0.0",
+  "description": "As part of this exercise you will create a configurable command-line based currency conversion tool.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --watch"
+  },
+  "keywords": [],
+  "author": "Jesse R Mykolyn",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "jest": "^27.5.1"
+  }
+}
